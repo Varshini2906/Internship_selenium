@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-04T11:38:51Z" name="Default suite" finished-at="2021-09-04T11:42:15Z" duration-ms="204159">
+    <groups>
+    </groups>
+    <test started-at="2021-09-04T11:38:51Z" name="Default test" finished-at="2021-09-04T11:42:15Z" duration-ms="204159">
+      <class name="sample.Project">
+        <test-method is-config="true" signature="launch()[pri:0, instance:sample.Project@40317ba2]" started-at="2021-09-04T11:38:51Z" name="launch" finished-at="2021-09-04T11:39:08Z" duration-ms="17728" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method signature="search()[pri:1, instance:sample.Project@40317ba2]" started-at="2021-09-04T11:39:08Z" name="search" finished-at="2021-09-04T11:39:26Z" duration-ms="17158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method signature="scroll()[pri:2, instance:sample.Project@40317ba2]" started-at="2021-09-04T11:39:26Z" name="scroll" finished-at="2021-09-04T11:39:30Z" duration-ms="4271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scroll -->
+        <test-method signature="addtocart()[pri:3, instance:sample.Project@40317ba2]" started-at="2021-09-04T11:39:30Z" name="addtocart" finished-at="2021-09-04T11:40:02Z" duration-ms="32342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocart -->
+        <test-method signature="toolbar_tshirt()[pri:4, instance:sample.Project@40317ba2]" started-at="2021-09-04T11:40:02Z" name="toolbar_tshirt" finished-at="2021-09-04T11:40:40Z" duration-ms="37380" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toolbar_tshirt -->
+        <test-method signature="toolbar_dresses()[pri:5, instance:sample.Project@40317ba2]" started-at="2021-09-04T11:40:40Z" name="toolbar_dresses" finished-at="2021-09-04T11:41:00Z" duration-ms="20784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- toolbar_dresses -->
+        <test-method signature="viewcart()[pri:6, instance:sample.Project@40317ba2]" started-at="2021-09-04T11:41:00Z" name="viewcart" finished-at="2021-09-04T11:41:17Z" duration-ms="16281" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewcart -->
+        <test-method signature="sign_in()[pri:7, instance:sample.Project@40317ba2]" started-at="2021-09-04T11:41:17Z" name="sign_in" finished-at="2021-09-04T11:42:00Z" duration-ms="43454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign_in -->
+        <test-method signature="Shippingitems()[pri:8, instance:sample.Project@40317ba2]" started-at="2021-09-04T11:42:00Z" name="Shippingitems" finished-at="2021-09-04T11:42:15Z" duration-ms="14696" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Shippingitems -->
+        <test-method is-config="true" signature="payment()[pri:0, instance:sample.Project@40317ba2]" started-at="2021-09-04T11:42:15Z" name="payment" finished-at="2021-09-04T11:42:15Z" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- payment -->
+      </class> <!-- sample.Project -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
